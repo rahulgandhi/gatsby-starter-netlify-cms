@@ -25,6 +25,7 @@ export default (props: HtmlProps) => {
         {props.headComponents}
         <title>My website</title>
         <meta charSet="utf-8" />
+        <meta name="verify-admitad" content="a48a450807" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
         <meta
           name="viewport"
